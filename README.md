@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently working on running business @ Ironwood Cyber
+- Software I'm interested in is infrastructure/platform, AI, and cybersecurity
+- Looking to collaborate with the internet on developing the @openagentidentityprotocol for Agentic AI
 <!--
 **yungcero/yungcero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
