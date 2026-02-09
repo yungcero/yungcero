@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - I'm currently working on running business @ Ironwood Cyber
+- I'm the founder of @ Montcao
 - Software I'm interested in is infrastructure/platform, AI, and cybersecurity
 - Looking to collaborate with the internet on developing the @openagentidentityprotocol for Agentic AI
 <!--
